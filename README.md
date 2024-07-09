@@ -1,1 +1,1 @@
-# gfx803_rocm61_pt24_comfyui-
+# gfx803_rocm61_pt24_comfyu
